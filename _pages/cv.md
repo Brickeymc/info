@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA in Political Science, University of Missouri-Columbia, 2003
+* MA in History, San Deigo State University, 2017
+* MA in American Studies, Saint Louis University, 2018
+* Ph.D in American Studies, Saint Louis University, 2023 (expected)
 
 Work experience
 ======
